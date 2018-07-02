@@ -3,7 +3,7 @@ This repository contains the Python version of RevoscaleR code examples provided
 
 ## Environment setting
 
-After checking out this repository, copy the `.env_tmpl` file into `.env` in your local.
+After checking out this repository, copy the `.env_tmpl` file into `.env` in your local environment.
 
 ## Data
 The data files used in the examples are available from https://packages.revolutionanalytics.com/datasets/

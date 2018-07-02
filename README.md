@@ -9,3 +9,10 @@ After checking out this repository, copy the `.env_tmpl` file into `.env` in you
 The data files used in the examples are available from https://packages.revolutionanalytics.com/datasets/
 
 Downloaded them locally to `C:\Temp\Data` (or any other location specified in your `.env` file)
+
+## Packages
+
+Some packages may not be installed on your environment, perform:
+
+`pip install -U python-dotenv`
+

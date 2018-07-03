@@ -1,6 +1,8 @@
 # Revoscalepy Code Examples
 This repository contains the Python version of RevoscaleR code examples provided in the RevoscaleR user guide. I am adding them little by little.
 
+These are built with RevoscalePy `9.2.0`, which does not implement all the features and options of RevoscaleR. Some examples cannot be translated.  
+
 # Prerequisites
 
 ## Environment setting

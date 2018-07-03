@@ -29,9 +29,6 @@ Downloaded them locally to `C:\Temp\Data` (or any other location specified in yo
 
 ## FAQ
 
-### `ModuleNotFoundError: No module named 'revoscalepy'`
-You need to select a Python execution environment where RevoscalePy is installed. See the prerequisite section above.
-
-### `No matching distribution found for revoscalepy`
-You are likely trying to perform `pip install revoscalepy`. This package is not available from a public repository, see the prerequisite section above.
+- `ModuleNotFoundError: No module named 'revoscalepy'`: You need to select a Python execution environment where RevoscalePy is installed. See the prerequisite section above.
+- `No matching distribution found for revoscalepy`: You are likely trying to perform `pip install revoscalepy`. This package is not available from a public repository, see the prerequisite section above.
 

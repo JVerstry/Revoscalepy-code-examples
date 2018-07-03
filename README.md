@@ -1,5 +1,5 @@
 # Revoscalepy Code Examples
-This repository contains the Python version of RevoscaleR code examples provided in the RevoscaleR user guide.
+This repository contains the Python version of RevoscaleR code examples provided in the RevoscaleR user guide. I am adding them little by little.
 
 # Prerequisites
 

@@ -19,7 +19,7 @@
     <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="1-2-1-accessing-external-datasets.py" />
+    <Compile Include="2-2-importing-delimited-text-data.py" />
     <Compile Include="settings.py" />
   </ItemGroup>
   <ItemGroup>

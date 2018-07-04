@@ -23,6 +23,6 @@ rx_import(input_data = firstFile, output_file = outfile,
     strings_as_factors = True,
     append = "rows")
 
-# Displaying info
+# Re-displaying info
 claims_data_frame = rx_import(outfile)
 print(rx_get_info(claims_data_frame, get_var_info = True))

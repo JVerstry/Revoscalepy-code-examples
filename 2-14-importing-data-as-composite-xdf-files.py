@@ -22,4 +22,3 @@ print(os.listdir(metadataDir))
 
 dataDir = os.path.join(mortDefaultCompXdfDir, 'data')
 print(os.listdir(dataDir))
-

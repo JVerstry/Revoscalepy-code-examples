@@ -27,6 +27,7 @@
     <Compile Include="2-15-using-data-from-the-hadoop-distributed-file-System.py" />
     <Compile Include="2-2-1-specifying-a-missing-value-string.py" />
     <Compile Include="3-6-working-with-an-xdf-data-source.py" />
+    <Compile Include="3-7-using-an-xdf-data-dource-with-biglm.py" />
     <Compile Include="2-2-importing-delimited-text-data.py" />
     <Compile Include="2-3-importing-fixed-format-data.py" />
     <Compile Include="2-4-importing-sas-data.py" />

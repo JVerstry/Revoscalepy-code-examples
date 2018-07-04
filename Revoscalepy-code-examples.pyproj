@@ -19,7 +19,23 @@
     <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="2-10-converting-dates-stored-as-character-strings.py" />
+    <Compile Include="2-11-importing-wide-data.py" />
+    <Compile Include="2-12-reading-data-into-a-data-frame-row-selection.py" />
+    <Compile Include="2-13-splitting-data-files.py" />
+    <Compile Include="2-14-importing-data-as-composite-xdf-files.py" />
+    <Compile Include="2-15-using-data-from-the-hadoop-distributed-file-System.py" />
+    <Compile Include="2-2-1-specifying-a-missing-value-string.py" />
     <Compile Include="2-2-importing-delimited-text-data.py" />
+    <Compile Include="2-3-importing-fixed-format-data.py" />
+    <Compile Include="2-4-importing-sas-data.py" />
+    <Compile Include="2-5-importing-spss-data.py" />
+    <Compile Include="2-6-specifying-variable-data-types.py" />
+    <Compile Include="2-7-specifying-additional-variable-information.py" />
+    <Compile Include="2-8-appending-to-an-existing-file.py" />
+    <Compile Include="2-9-transforming-data-on-import.py" />
+    <Compile Include="3-2-specifying-delimiters.py" />
+    <Compile Include="3-5-using-data-sources.py" />
     <Compile Include="settings.py" />
   </ItemGroup>
   <ItemGroup>

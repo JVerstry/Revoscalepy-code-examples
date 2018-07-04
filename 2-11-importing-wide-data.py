@@ -1,7 +1,7 @@
 # 2.11 Importing Wide Data
 import os
 import settings as st
-from revoscalepy import rx_import, rx_get_info, RxOptions
+from revoscalepy import rx_import, rx_get_info
 
 # Import/Export file
 infile = os.path.join(st.SAMPLE_DATA_DIR,'claims.txt')

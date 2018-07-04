@@ -1,7 +1,7 @@
 # 2.2.1 Specifying a missed value for strings
 import os
 import settings as st
-from revoscalepy import rx_import, rx_get_info, RxOptions, RxXdfData
+from revoscalepy import rx_import, rx_get_info, RxXdfData
 
 # Importing Delimited Text Data
 infile = os.path.join(st.SAMPLE_DATA_DIR,'AirlineDemoSmall.csv')

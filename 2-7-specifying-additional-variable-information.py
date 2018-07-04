@@ -1,7 +1,7 @@
 # 2.7 Specifying Additional Variable Information
 import os
 import settings as st
-from revoscalepy import rx_import, rx_get_info, RxOptions
+from revoscalepy import rx_import, rx_get_info
 
 # Importing Delimited Text Data
 inFileAddVars = os.path.join(st.SAMPLE_DATA_DIR,'claims.txt')

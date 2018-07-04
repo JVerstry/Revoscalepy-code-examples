@@ -1,7 +1,7 @@
 # 2.8 Append to an existing file
 import os
 import settings as st
-from revoscalepy import rx_import, rx_get_info, RxOptions
+from revoscalepy import rx_import, rx_get_info
 
 # Input file
 firstFile = os.path.join(st.SAMPLE_DATA_DIR,'claims.txt')

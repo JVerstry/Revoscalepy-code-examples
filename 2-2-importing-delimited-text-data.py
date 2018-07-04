@@ -1,7 +1,7 @@
 # 2.2 Importing Delimited Text Data
 import os
 import settings as st
-from revoscalepy import rx_import, rx_get_info, RxOptions
+from revoscalepy import rx_import, rx_get_info
 
 # Importing Delimited Text Data
 infile = os.path.join(st.SAMPLE_DATA_DIR,'claims.txt')
@@ -9,8 +9,7 @@ infile = os.path.join(st.SAMPLE_DATA_DIR,'claims.txt')
 claims_data_frame = rx_import(infile)
 
 # Displaying info
-info = rx_get_info(claims_data_frame, get_var_info = True)
-print(info)
+print(rx_get_info(claims_data_frame, get_var_info = True))
 
 # Saving text data into XDF file
 

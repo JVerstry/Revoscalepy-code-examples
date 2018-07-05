@@ -27,6 +27,7 @@
     <Compile Include="2-15-using-data-from-the-hadoop-distributed-file-System.py" />
     <Compile Include="2-2-1-specifying-a-missing-value-string.py" />
     <Compile Include="18-3-creating-a-row-selection-variable.py" />
+    <Compile Include="4-4-converting-xdf-files-to-text.py" />
     <Compile Include="4-3-using-the-data-step-to-create-an-xdf-file-from-a-data-frame.py" />
     <Compile Include="4-2-transforming-data-with-rxdatastep.py" />
     <Compile Include="4-1-creating-a-subset-of-rows-and-columns.py" />
